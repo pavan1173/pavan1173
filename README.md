@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @pavan1173
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi there, I'm Pavan Kumar (pavan1173)
 
-<!---
-pavan1173/pavan1173 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me
+🎓 Computer Science student at Aditya University, Surampalem  
+💡 Passionate about Web Development, DSA, and Generative AI  
+📍 Based in India | 🌐 Native Telugu Speaker | 🧠 Lifelong Learner  
+
+🔧 Skills
+- 💻 Languages: C, C++, JavaScript, Python
+- 🌐 Web: HTML, CSS, JavaScript, React (Learning)
+- 🗃️ Tools: Git, GitHub, VSCode, Figma
+- 📊 Others: Data Structures, Algorithms, Problem Solving
+
+ 📚 Currently Learning
+- React.js, TailwindCSS
+- System Design Basics
+- Advanced DSA in C
+🤝 Looking to Collaborate On
+- Open-source Web Apps for Travel or Canteen Automation
+- Projects involving AI & real-time systems
+
+📫 How to Reach Me
+- ✉️ Email: `yourname@email.com` (replace with real one)
+- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [Portfolio](https://yourportfolio.com)
+
+ ⚡ Fun Fact
+I’m building my own AI-powered personal portfolio with real-time features!
+
+> ✨ Let’s build something awesome together!
