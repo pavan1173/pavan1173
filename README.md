@@ -20,8 +20,8 @@
 - Projects involving AI & real-time systems
 
 📫 How to Reach Me
-- ✉️ Email: `yourname@email.com` (replace with real one)
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- ✉️ Email: mpavankumar110405@gmail.com
+- 🔗 (https://linkedin.com/in/yourprofile)
 - 🌐 [Portfolio](https://yourportfolio.com)
 
  ⚡ Fun Fact
