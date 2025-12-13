@@ -38,7 +38,7 @@ I believe in **learning by building**, **thinking long-term**, and **improving 1
 ## 🛠️ Tech Stack
 
 ```txt
-Languages      : C, JavaScript
+Languages      : C,C++,OOP,Python
 Frontend       : HTML, CSS, JavaScript
 Tools          : Git, GitHub, VS Code
 Concepts       : DSA, DBMS, OS
