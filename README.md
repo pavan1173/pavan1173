@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm M. Pavan Kumar  
 
-<!--
-**pavan1173/pavan1173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Computer Science & Engineering Student | Web Developer | DSA Enthusiast | AI Explorer  
+I’m a passionate and disciplined **CSE student from Aditya University, Surampalem**, focused on building **real-world software**, improving **problem-solving skills**, and growing into a **top-tier software engineer**.
 
-Here are some ideas to get you started:
+I believe in **learning by building**, **thinking long-term**, and **improving 1% every day**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 What I’m Good At
+
+### 💻 Programming & Problem Solving
+- **C Programming** – Strong foundation in logic, memory, and algorithms  
+- **Data Structures & Algorithms** (Beginner → Advanced path)
+  - Arrays, Strings, Searching, Sorting
+  - Recursion, Linked Lists, Stacks, Queues
+  - Trees & Basic Graph concepts (learning)
+- Writing **clean, efficient, and interview-oriented code**
+
+### 🌐 Web Development
+- **HTML5, CSS3, JavaScript**
+- Responsive UI design
+- Interactive front-end features
+- Real-time and location-based web apps
+- API-based feature integration
+
+### 🧠 AI & Modern Tools
+- Strong hands-on experience with **AI tools**
+- Using AI to:
+  - Build projects faster
+  - Generate content
+  - Create videos (Veo 3)
+  - Improve productivity & learning
+- Exploring **AI-powered web features**
+
+---
+
+## 🛠️ Tech Stack
+
+```txt
+Languages      : C, JavaScript
+Frontend       : HTML, CSS, JavaScript
+Tools          : Git, GitHub, VS Code
+Concepts       : DSA, DBMS, OS
+AI Tools       : ChatGPT, Veo 3, AI productivity tools
