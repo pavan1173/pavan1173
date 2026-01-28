@@ -7,70 +7,53 @@ Computer Science & Engineering Student | Web Developer | DSA Practitioner | AI E
 ## About Me
 
 I am a disciplined and growth-focused **Computer Science & Engineering undergraduate at Aditya University, Surampalem**.  
-My primary interests lie in **problem solving, software development, and building real-world applications**.
+My interests include **problem solving, real-world software development, and AI-powered applications**.
 
-I believe in:
-- Learning by building practical projects  
-- Writing clean, efficient, and scalable code  
-- Consistent improvement through daily effort  
+I believe in learning by building, writing clean and efficient code, and improving consistently over time.
 
-I am continuously working toward becoming a **strong software engineer with solid fundamentals and real-world skills**.
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="mailto:mpavankumar110405@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mpavankumar110405@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://pavanportfolio11.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/m-pavan-kumar-7a3228338" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-M.%20Pavan%20Kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://leetcode.com/pavan1104/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-pavan1104-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.codechef.com/users/mpavan1104" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-mpavan1104-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.hackerrank.com/profile/mpavankumar11041" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-mpavankumar11041-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## Technical Skills
-
-### Programming Languages
-- C  
-- C++  
-- Python  
-
-### Data Structures & Algorithms
-- Arrays and Strings  
-- Searching and Sorting techniques  
-- Recursion and Backtracking  
-- Linked Lists  
-- Stacks and Queues  
-- Trees and basic Graph concepts  
-
-- Strong focus on writing **efficient and interview-oriented solutions**
-
----
-
-## Web Development
-
-### Frontend Technologies
-- HTML5  
-- CSS3  
-- JavaScript  
-
-### Skills
-- Responsive and accessible UI design  
-- Interactive and dynamic web interfaces  
-- API integration and data handling  
-- Real-time and location-based features  
-
-### Project Experience
-- Travel-based and navigation web applications  
-- Smart canteen and intranet-style systems  
-- User-focused frontend applications with performance optimization  
-
----
-
-## AI & Modern Tools
-
-- Hands-on experience with **AI-powered tools**
-- Using AI to:
-  - Improve development speed
-  - Assist in debugging and learning
-  - Generate content and documentation
-  - Create videos and creative assets (Veo 3)
-
-- Exploring **AI-powered web features** and intelligent systems
-
----
-
-## Tech Stack
 
 ```txt
 Languages      : C, C++, Python
