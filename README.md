@@ -1,45 +1,81 @@
-# 👋 Hi, I'm M. Pavan Kumar  
+# M. Pavan Kumar
 
-🚀 Computer Science & Engineering Student | Web Developer | DSA Enthusiast | AI Explorer  
-I’m a passionate and disciplined **CSE student from Aditya University, Surampalem**, focused on building **real-world software**, improving **problem-solving skills**, and growing into a **top-tier software engineer**.
-
-I believe in **learning by building**, **thinking long-term**, and **improving 1% every day**.
+Computer Science & Engineering Student | Web Developer | DSA Practitioner | AI Enthusiast  
 
 ---
 
-## 🔥 What I’m Good At
+## About Me
 
-### 💻 Programming & Problem Solving
-- **C Programming** – Strong foundation in logic, memory, and algorithms  
-- **Data Structures & Algorithms** (Beginner → Advanced path)
-  - Arrays, Strings, Searching, Sorting
-  - Recursion, Linked Lists, Stacks, Queues
-  - Trees & Basic Graph concepts (learning)
-- Writing **clean, efficient, and interview-oriented code**
+I am a disciplined and growth-focused **Computer Science & Engineering undergraduate at Aditya University, Surampalem**.  
+My primary interests lie in **problem solving, software development, and building real-world applications**.
 
-### 🌐 Web Development
-- **HTML5, CSS3, JavaScript**
-- Responsive UI design
-- Interactive front-end features
-- Real-time and location-based web apps
-- API-based feature integration
+I believe in:
+- Learning by building practical projects  
+- Writing clean, efficient, and scalable code  
+- Consistent improvement through daily effort  
 
-### 🧠 AI & Modern Tools
-- Strong hands-on experience with **AI tools**
+I am continuously working toward becoming a **strong software engineer with solid fundamentals and real-world skills**.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+- C  
+- C++  
+- Python  
+
+### Data Structures & Algorithms
+- Arrays and Strings  
+- Searching and Sorting techniques  
+- Recursion and Backtracking  
+- Linked Lists  
+- Stacks and Queues  
+- Trees and basic Graph concepts  
+
+- Strong focus on writing **efficient and interview-oriented solutions**
+
+---
+
+## Web Development
+
+### Frontend Technologies
+- HTML5  
+- CSS3  
+- JavaScript  
+
+### Skills
+- Responsive and accessible UI design  
+- Interactive and dynamic web interfaces  
+- API integration and data handling  
+- Real-time and location-based features  
+
+### Project Experience
+- Travel-based and navigation web applications  
+- Smart canteen and intranet-style systems  
+- User-focused frontend applications with performance optimization  
+
+---
+
+## AI & Modern Tools
+
+- Hands-on experience with **AI-powered tools**
 - Using AI to:
-  - Build projects faster
-  - Generate content
-  - Create videos (Veo 3)
-  - Improve productivity & learning
-- Exploring **AI-powered web features**
+  - Improve development speed
+  - Assist in debugging and learning
+  - Generate content and documentation
+  - Create videos and creative assets (Veo 3)
+
+- Exploring **AI-powered web features** and intelligent systems
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ```txt
-Languages      : C,C++,OOP,Python
+Languages      : C, C++, Python
+Programming    : Object-Oriented Programming
 Frontend       : HTML, CSS, JavaScript
+Core Concepts  : Data Structures, DBMS, Operating Systems
 Tools          : Git, GitHub, VS Code
-Concepts       : DSA, DBMS, OS
 AI Tools       : ChatGPT, Veo 3, AI productivity tools
