@@ -11,8 +11,7 @@ My interests include **problem solving, real-world software development, and AI-
 
 I believe in learning by building, writing clean and efficient code, and improving consistently over time.
 
----
-
+--
 ## Connect With Me
 
 <p align="left">
@@ -21,11 +20,12 @@ I believe in learning by building, writing clean and efficient code, and improvi
   </a>
 </p>
 
-<p align="left">
+<p align="left" >
   <a href="https://pavanportfolio11.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
   </a>
 </p>
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/m-pavan-kumar-7a3228338" target="_blank">
