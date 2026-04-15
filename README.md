@@ -56,9 +56,11 @@ I believe in learning by building, writing clean and efficient code, and improvi
 ## Technical Skills
 
 ```txt
-Languages      : C, C++, Python
+Languages      : C, C++, Python ,java basics.
 Programming    : Object-Oriented Programming
-Frontend       : HTML, CSS, JavaScript
+Frontend       : HTML, CSS, JavaScript , react , Node Js, .
+DataBase       : SQl, MongoDb . 
 Core Concepts  : Data Structures, DBMS, Operating Systems
-Tools          : Git, GitHub, VS Code
-AI Tools       : ChatGPT, Veo 3, AI productivity tools
+Tools          : Git, GitHub, VS Code, Antigravity,Crusor.
+
+
