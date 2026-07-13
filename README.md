@@ -1,136 +1,55 @@
-# M. Pavan Kumar
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+M.+Pavan+Kumar;AI+Engineer+%7C+Full+Stack+Developer;Building+AI+Products+🚀;GDG+Hackathon+Winner+🏆" />
+</p>
 
-**Computer Science & Engineering Student | Web Developer | DSA Practitioner | AI Enthusiast**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nodejs,express,mongodb,html,css,tailwind,git,github,gcp,vscode&perline=8" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pavan1173&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan1173&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pavan1173&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pavan1173&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12" />
+</p>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I am a motivated Computer Science & Engineering student at **Aditya University, Surampalem** who enjoys building practical, useful, and clean software products. I like solving problems, working on real-world web applications, and exploring AI-powered systems.
+- 💻 CSE Student @ Aditya University
+- 🤖 AI + Full Stack Developer
+- 🚀 Building WayFinder AI
+- 🏆 GDG Hackathon Winner
+- 📚 Learning DSA, MERN, OpenCV, and RAG
 
-I focus on learning by building, improving my fundamentals, and creating projects that solve actual user problems. My strengths are consistency, curiosity, teamwork, and a strong interest in technology.
+## 🌐 Social Links
 
-## What I Work On
+<p align="center">
+  <a href="mailto:mpavankumar110405@gmail.com"><img src="https://img.shields.io/badge/Email-mpavankumar110405@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://pavanportfolio11.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
+  <a href="https://www.linkedin.com/in/m-pavan-kumar-7a3228338"><img src="https://img.shields.io/badge/LinkedIn-M.%20Pavan%20Kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/pavan1104/"><img src="https://img.shields.io/badge/LeetCode-pavan1104-orange?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
 
-- Web development
-- Data Structures and Algorithms
-- AI-based applications
-- Problem solving and competitive coding
-- Building product-focused projects
+## 🚀 Featured Projects
 
-## Technical Skills
+- 🌍 **WayFinder AI** — AI travel assistant for turning saved content into travel plans
+- 🍔 **Smart Canteen / Hunger Rush** — campus food ordering system
+- 🏫 **University Intranet** — secure internal campus web app
 
-**Languages**
+## 🎖️ Highlights
 
-- C
-- C++
-- Python
-- Java (basics)
-- JavaScript
+- **1st Place** at GDG Hackathon for **WayFinder AI** among **50+ teams**
+- Strong focus on clean UI, practical products, and real-world problem solving
+- Consistently improving in AI engineering and full-stack development
 
-**Frontend**
-
-- HTML5
-- CSS3
-- JavaScript
-- React
-
-**Backend**
-
-- Node.js
-- Express.js
-
-**Database**
-
-- MongoDB
-- SQL
-
-**Core CS Concepts**
-
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-
-**Tools & Platforms**
-
-- Git
-- GitHub
-- VS Code
-- Cursor
-- Antigravity
-
-**AI / Cloud / Product Tools**
-
-- Google Gemini
-- Google Maps API
-- Google Cloud Platform
-- Google AI Studio
-- Google Cloud Functions
-- Google Cloud Vision API
-- Google TTS / STT
-
-## Projects
-
-**WayFinder AI**
-
-- AI-powered travel assistant that turns saved social media content into travel plans
-- Helps extract locations, suggest hotels and food places, and create personalized itineraries
-- Built with AI and Google ecosystem tools
-
-**Smart Canteen System / Hunger Rush**
-
-- Campus food ordering system designed to reduce queue time and improve convenience
-- Focused on smooth ordering and better user flow
-
-**Secure University Intranet Project**
-
-- Internal campus-only web app idea for controlled and secure access
-- Built with productivity and access control in mind
-
-**Other Work**
-
-- Portfolio website
-- Online Shopping Cart Simulation
-- Library Management System
-- Student Attendance Management System
-- Bus Ticket Booking System
-
-## Achievements
-
-- **1st Place** at a **GDG Hackathon** for **WayFinder AI** among **50+ teams**
-- Built multiple real-world projects across web development, AI, and campus-use cases
-- Continuously improving in DSA, development, and AI engineering
-
-## Certifications
-
-- Cisco: Introduction to Modern AI
-- Cisco: Python Essentials 1
-- Cisco: C Essentials 1
-- Cisco: C Essentials 2
-- Microsoft Power Platform Fundamentals
-- Microsoft Office Specialist: Excel
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-- Oracle Data Platform 2025 Certified Foundations Associate
-- GeeksforGeeks Generative AI Course
-
-## Links
-
-- Portfolio: [pavanportfolio11.netlify.app](https://pavanportfolio11.netlify.app)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/m-pavan-kumar-7a3228338)
-- LeetCode: [pavan1104](https://leetcode.com/pavan1104/)
-- CodeChef: [mpavan1104](https://www.codechef.com/users/mpavan1104)
-- HackerRank: [mpavankumar11041](https://www.hackerrank.com/profile/mpavankumar11041)
-
-## Currently Improving
-
-- Advanced DSA
-- MERN stack development
-- AI engineering
-- OpenCV and computer vision
-- RAG and LLM application building
-
-## Contact
-
-I am always open to collaboration, hackathons, internships, and interesting projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavan1173&style=for-the-badge&color=blueviolet" />
+</p>
