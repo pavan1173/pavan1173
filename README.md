@@ -1,55 +1,225 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+M.+Pavan+Kumar;AI+Engineer+%7C+Full+Stack+Developer;Building+AI+Products+🚀;GDG+Hackathon+Winner+🏆" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+M.+Pavan+Kumar;AI+Engineer+%7C+Full+Stack+Developer;Building+AI+Products+with+LLMs+🚀;RAG+%7C+Agentic+AI+%7C+Computer+Vision;GDG+Hackathon+Winner+🏆" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nodejs,express,mongodb,html,css,tailwind,git,github,gcp,vscode&perline=8" />
-</p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pavan1173&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan1173&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://komarev.com/ghpvc/?username=pavan1173&style=for-the-badge&color=blue)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pavan1173&theme=tokyonight&hide_border=true" />
-</p>
+![](https://img.shields.io/github/followers/pavan1173?style=for-the-badge)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavan1173&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12" />
+![](https://img.shields.io/github/stars/pavan1173?style=for-the-badge)
+
 </p>
 
 ---
 
-## 👋 About Me
+# 💫 About Me
 
-- 💻 CSE Student @ Aditya University
-- 🤖 AI + Full Stack Developer
-- 🚀 Building WayFinder AI
-- 🏆 GDG Hackathon Winner
-- 📚 Learning DSA, MERN, OpenCV, and RAG
+```python
+class Pavan:
 
-## 🌐 Social Links
+    name = "M. Pavan Kumar"
+
+    university = "Aditya University"
+
+    role = "AI Engineer"
+
+    interests = [
+        "LLMs",
+        "RAG",
+        "Agentic AI",
+        "Computer Vision",
+        "Generative AI",
+        "Full Stack Development"
+    ]
+
+    currently_learning = [
+        "LangChain",
+        "LangGraph",
+        "Vector Databases",
+        "OpenCV",
+        "AI Agents"
+    ]
+
+    building = [
+        "WayFinder AI",
+        "Open Vision",
+        "AI Developer Tools"
+    ]
+
+    goal = "Building AI products used by millions 🚀"
+```
+
+---
+
+# 🚀 Tech Stack
 
 <p align="center">
-  <a href="mailto:mpavankumar110405@gmail.com"><img src="https://img.shields.io/badge/Email-mpavankumar110405@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://pavanportfolio11.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
-  <a href="https://www.linkedin.com/in/m-pavan-kumar-7a3228338"><img src="https://img.shields.io/badge/LinkedIn-M.%20Pavan%20Kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/pavan1104/"><img src="https://img.shields.io/badge/LeetCode-pavan1104-orange?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,postgres,html,css,tailwind,firebase,git,github,docker,gcp,vscode,linux&perline=8"/>
+
 </p>
 
-## 🚀 Featured Projects
+---
 
-- 🌍 **WayFinder AI** — AI travel assistant for turning saved content into travel plans
-- 🍔 **Smart Canteen / Hunger Rush** — campus food ordering system
-- 🏫 **University Intranet** — secure internal campus web app
+# 🤖 AI Stack
 
-## 🎖️ Highlights
+- OpenAI API
+- Gemini API
+- LangChain
+- LangGraph
+- RAG
+- AI Agents
+- Prompt Engineering
+- OpenCV
+- Computer Vision
+- Vector Databases
+- ChromaDB
+- FAISS
+- Pinecone
+- Hugging Face
+- Ollama
+- Whisper
+- TTS/STT
 
-- **1st Place** at GDG Hackathon for **WayFinder AI** among **50+ teams**
-- Strong focus on clean UI, practical products, and real-world problem solving
-- Consistently improving in AI engineering and full-stack development
+---
+
+# 🌎 Featured Projects
+
+## 🌍 WayFinder AI
+
+AI-powered travel assistant that converts saved Instagram and TikTok content into personalized travel plans.
+
+### Features
+
+- AI Trip Planner
+- Google Maps Integration
+- Image Analysis
+- Voice Assistant
+- Smart Recommendations
+- Nearby Places
+- Route Optimization
+
+---
+
+## 👁️ Open Vision
+
+AI desktop assistant capable of
+
+- Screen Understanding
+- Image Analysis
+- Voice Interaction
+- OCR
+- Live AI Assistant
+- Computer Vision
+
+---
+
+## 🍔 Hunger Rush
+
+Campus food ordering platform
+
+- Online Ordering
+- Queue Reduction
+- Admin Dashboard
+- Payment Integration
+
+---
+
+# 🏆 Achievements
+
+🥇 GDG Hackathon Winner
+
+🏆 Built multiple AI-powered applications
+
+🚀 Building real-world AI products
+
+📹 AI Content Creator
+
+💡 Open Source Contributor
+
+---
+
+# 📜 Certifications
+
+- Oracle AI Foundations Associate
+- Oracle Data Platform Foundations
+- Microsoft Power Platform Fundamentals
+- Cisco Python Essentials
+- Cisco C Essentials
+- Cisco Modern AI
+- Microsoft Excel Specialist
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavan1173&style=for-the-badge&color=blueviolet" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pavan1173&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan1173&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pavan1173&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavan1173&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pavan1173&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:mpavankumar110405@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/m-pavan-kumar-7a3228338">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/pavan1104/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://pavanportfolio11.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- Build AI products used by 100K+ users
+- Master Agentic AI
+- Master RAG
+- Contribute to Open Source
+- Crack top AI internships
+- Grow as an AI Content Creator
